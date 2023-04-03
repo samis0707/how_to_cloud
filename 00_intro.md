@@ -3,12 +3,13 @@ marp: true
 theme: gaia
 class: invert
 ---
-
 # <!--fit--> How to Cloud :cloud:
     Introduction
 
+## Deploying **our** own cloud service
 ---
-# Agenda
+<!-- footer: "How to cloud - Samis Ellsaesser" -->
+## Agenda
 
 * structure of the workshop
 * basic understanding of *the* cloud
@@ -16,7 +17,7 @@ class: invert
 * Wie machen wir "cloud"?
 
 ---
-# Structure
+## Structure
 
 - 5 sessions
 - open talk
@@ -26,7 +27,7 @@ class: invert
 #### :point_right: Goal is a functional Cloud services for all students
 
 ---
-# Cloud Computing
+## Cloud (Computing)
     basic understanding of the cloud
 ![bg right:40%](image0.png)
 
@@ -35,11 +36,19 @@ class: invert
 - no active management by the user
 
 ---
-# Cloud Computing
+## Cloud (Computing)
     basic understanding of the cloud
 
 ---
-# Cloud Service
+## Cloud Service
+    which type of cloud service can and should we use
 
+---
+## Cloud Service
+    which type of cloud service can and should we use
 
+---
+## Open Source
+    Wie machen wir "cloud"?
+- concept of free and open source software (FOSS)
 
