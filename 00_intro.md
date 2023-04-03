@@ -16,11 +16,30 @@ class: invert
 * Wie machen wir "cloud"?
 
 ---
+# Structure
+
+- 5 sessions
+- open talk
+- **today:** 
+    - discussion
+    - bringing everybody on the same page
+#### :point_right: Goal is a functional Cloud services for all students
+
+---
 # Cloud Computing
-    basic understanding of *the* cloud
+    basic understanding of the cloud
+![bg right:40%](image0.png)
 
-- on-demand availability of computer system resources
+- on-demand availability of computer system resources, especially
+    - cloud storage and computing power
+- no active management by the user
 
+---
+# Cloud Computing
+    basic understanding of the cloud
+
+---
+# Cloud Service
 
 
 
