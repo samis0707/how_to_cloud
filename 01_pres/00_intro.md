@@ -13,9 +13,9 @@ class: invert
 <!-- footer: "How to Cloud - 2023" -->
 ## Agenda
 
-* Struktur
-* Cloud-Ebene
-* TO-DOs
+* Struktur des Workshops
+* Was ist das Ziel?
+* TO-DOs zum erfolgreichen Abschluss
 * Wahl des Dienstleisters
 * Kosten-Nutzen Matrix
 
@@ -30,14 +30,14 @@ class: invert
   * alle auf einen Stand bringen
   * Grundlagen klären (z.B. Plan Infrastruktur)
   *  Infrastrukur: Dienstleisterauswahl :point_right: Kosten-Nutzen Matrix
-  * Domain bestellen
+  * Wahl der Domain bestellen
 ---
 
 ## Struktur
 
 **16.05.2023**
 - Einrichtung der Infrastruktur
-- Wahld der Cloud-Collab Application
+- Wahl der Cloud-Collab Application
 - Nextcloud Installation
 - Backup-Strategie
 - ...
@@ -66,4 +66,4 @@ class: invert
 * no active management by the user
 
 ---
-### :point_right: Ziel: Cloud-Collab Tool für alles Studis 
+## :point_right: Ziel: Cloud-Collab Tool für alles Studis 
