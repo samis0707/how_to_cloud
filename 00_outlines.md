@@ -28,8 +28,11 @@ Soll Hilfe zum Ablauf, Ordnung und wichtigen Punkten sein.
   - Eigenen Cronjob und File-Share zum Serverbackup
 
 - Update-Strategie
-?
+  - Wartung
 - Nextcloud Apps (für erweiterte Funktionalität)
+
+- Nextcloud Talk
+  - CoTurn-Server
 
     
   

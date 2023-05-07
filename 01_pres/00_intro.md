@@ -5,31 +5,55 @@ class: invert
 ---
 # <!--fit--> How to Cloud :cloud:
 
-    Introduction
+    Einleitung
 
 ## Deploying **our** own cloud service
 
 ---
-<!-- footer: "How to cloud - Samis Ellsaesser" -->
+<!-- footer: "How to Cloud - 2023" -->
 ## Agenda
 
-* structure of the workshop
-* basic understanding of *the* cloud
-* Which type of cloud service *can* and *should* we use
-* Wie machen wir "cloud"?
+* Struktur
+* Cloud-Ebene
+* TO-DOs
+* Wahl des Dienstleisters
+* Kosten-Nutzen Matrix
 
 ---
 
-## Structure
+## Struktur
 
-* 5 sessions
-* open talk
-* **today:**
-  * discussion
-  * bringing everybody on the same page
+* offene Runde - Fragen stellen
+* 3 Einheiten à 2h
+* eventuell eine vierte Einheit (Turn-Server)
+* **heute:**
+  * alle auf einen Stand bringen
+  * Grundlagen klären (z.B. Plan Infrastruktur)
+  *  Infrastrukur: Dienstleisterauswahl :point_right: Kosten-Nutzen Matrix
+  * Domain bestellen
+---
 
-### :point_right: Goal is a functional Cloud services for all students
+## Struktur
 
+**16.05.2023**
+- Einrichtung der Infrastruktur
+- Wahld der Cloud-Collab Application
+- Nextcloud Installation
+- Backup-Strategie
+- ...
+
+---
+
+## Struktur
+
+**23.05.2023** (letzter Termin)
+- Adminstrative Einrichtung
+- Shibboleth Schnittstelle
+- Backup-Lösung
+- Ausblick
+- Abschluss
+
+### GO-LIVE: Moodle Ankündigung / LinkedIn Post etc.
 ---
 
 ## Cloud (Computing)
@@ -42,27 +66,4 @@ class: invert
 * no active management by the user
 
 ---
-
-## Cloud (Computing)
-
-    basic understanding of the cloud
-
----
-
-## Cloud Service
-
-    which type of cloud service can and should we use
-
----
-
-## Cloud Service
-
-    which type of cloud service can and should we use
-
----
-
-## Open Source
-
-    Wie machen wir "cloud"?
-
-* concept of free and open source software (FOSS)
+### :point_right: Ziel: Cloud-Collab Tool für alles Studis 
