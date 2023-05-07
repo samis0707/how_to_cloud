@@ -18,6 +18,7 @@ class: invert
 * TO-DOs zum erfolgreichen Abschluss
 * Wahl des Dienstleisters
 * Kosten-Nutzen Matrix
+* Wahl der Domain
 
 ---
 
@@ -28,9 +29,9 @@ class: invert
 * eventuell eine vierte Einheit (Turn-Server)
 * **heute:**
   * alle auf einen Stand bringen
-  * Grundlagen klären (z.B. Plan Infrastruktur)
-  *  Infrastrukur: Dienstleisterauswahl :point_right: Kosten-Nutzen Matrix
-  * Wahl der Domain bestellen
+  * Grundlagen klären (z.B. Plan der Infrastruktur)
+  * Infrastrukur: Dienstleisterauswahl :point_right: Kosten-Nutzen Matrix
+  * Wahl der Domain
 ---
 
 ## Struktur
@@ -38,7 +39,7 @@ class: invert
 **16.05.2023**
 - Einrichtung der Infrastruktur
 - Wahl der Cloud-Collab Application
-- Nextcloud Installation
+- Nextcloud Installation (Docker?)
 - Backup-Strategie
 - ...
 
@@ -66,4 +67,37 @@ class: invert
 * no active management by the user
 
 ---
-## :point_right: Ziel: Cloud-Collab Tool für alles Studis 
+## Cloud as a Service
+
+*Hier die typische Pyramide und bisschen drauf eingehen was wir machen*
+
+---
+## Aufbau der IT-Infrastruktur
+
+*Zeichnung wie das ganze aussehen könnte*
+
+---
+## Was ist das Ziel?
+
+* Mehrwert für Alle schaffen
+* Eine gemeinsame PLattform zum Austausch von Lernmaterialen und connecten mit Anderen
+* Live-Demo ;)
+* ### :point_right: Cloud-Collab Tool für alles Studis 
+
+---
+## TO-DOs zum erfolgreichen Abschluss
+* https://github.com/samis0707/how_to_cloud/blob/master/00_outlines.md
+* Projekt wird auf GitHub dokumentiert
+* Checkliste mit allen wesentlichen Punkten
+    :point_right: muss nicht vollständig sein
+
+---
+## Wahl des Dienstleisters
+
+* Einreichen und Begründen der Kosten bei QSM-Stelle der DHBW
+* Aufstellen einer Kosten-Nutzen Matrix
+* Die IT-Dienstleister:
+    - Hetzner
+    - IONOS (1&1)
+    - NetCup
+    - Strato
