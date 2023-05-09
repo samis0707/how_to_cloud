@@ -69,7 +69,7 @@ class: invert
 ---
 ## Cloud as a Service
 
-*Hier die typische Pyramide und bisschen drauf eingehen was wir machen*
+![:100%](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsitetoolset.com%2Fwp-content%2Fuploads%2F2020%2F04%2FA-Guide-to-the-Cloud-Computing-Pyramid.jpg&f=1&nofb=1&ipt=83315cf2e69ed1561e91117386ede67d400e03fb95ef2a8c42c1936a4d70056a&ipo=images)
 
 ---
 ## Aufbau der IT-Infrastruktur
@@ -101,3 +101,12 @@ class: invert
     - IONOS (1&1)
     - NetCup
     - Strato
+
+---
+## Wahl des Dienstleisters
+
+* Einreichen und Begründen der Kosten bei QSM-Stelle der DHBW
+* Aufstellen einer Kosten-Nutzen Matrix
+---
+# <!-- fit --> Ausblick :cloud:
+#### <!-- right -->16.05.2023
