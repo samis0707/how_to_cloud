@@ -16,7 +16,7 @@ Anforderungen an den Server:
 - Für 60 Gruppen mit à 20GB geteiltem Speicher
 --> 6-8 Cores für die CPU, 32GB Arbeitsspeicher, 2TB Speicher
 
-##### Kostenmatrix
+##### Kostenmatrix Root-Server
 | Anbieter | Jährliche Kosten | Technsicher Support |  Arbeitsspeicher | CPU-Leistung | Datenträger | Datenmenge | Datenschutz | Geo-Location | Zusätzliche Funktionen
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Hetzner | 70,57€ x 12: 893,88€ | E-Mail, Telefon | 64GB DDR4 RAM | 6 cores / 12 threads @ 3.6 GHz | SATA HDD / NVMe SSD | 2 x 512GB NVMe SSD 2 x 2TB SATA HDD (5TB) | Deutscher Standort, DSGVO Konform | Deutschland | Control panel |
@@ -33,7 +33,7 @@ Das Angebot:
 
 #### Kosten für Domain-Hosting
 Domain-Name: dualshare.de
-
+##### Kostenmatrix Domain-Hosting
 | Anbieter | Jährliche Kosten | Technischer Support |  Geo-Location |
 | ----------- | ----------- | ----------- | ----------- |
 | Strato | 0,6€ (Jahr 2: 12€) | E-Mail, Telefon | Deutschland |
