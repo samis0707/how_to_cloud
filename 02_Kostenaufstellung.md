@@ -22,6 +22,7 @@ Ergebnis und schriftliche Begründung:
 
 Die Wahl fällt auf den Anbieter Hetzner. Er überzeugt nicht nur durch seine Konfigurationsmöglichkeiten, sondern auch durch den deutschen Standort die Datenschutz-Richtilinien und ein sehr gutes Preisleistungsverhältnis. Er bietet als einziger Anbieter die Anforderungen, die wir an die verfügbare Datenmenge haben. Die Wahl fiel auf einen dedizierten Server, da dieser voll umfänglich in unserer Kontrolle liegt. Die Gefahr, dass durch Virtualisierung in verschiedener Weise Perfomance einbußen auftreten können, wie es bei einem viruellen Server sein könnte ist so nicht gegeben.
 Das Angebot:
+![Hetzner Angebot](https://github.com/samis0707/how_to_cloud/assets/83206717/af2aa6fe-0087-4533-af27-37aaf45b0eea)
 
 
 
