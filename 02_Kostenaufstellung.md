@@ -34,14 +34,13 @@ Das Angebot:
 #### Kosten für Domain-Hosting
 Domain-Name: dualshare.de
 
-| Anbieter | Jährliche Kosten | Technischer Support | Uptime-Garantie | Reputation | Datenschutz | Geo-Location | Zusätzliche Funktionen
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | 
-| Strato |
-| NetCup |
-| IONOS |
-
+| Anbieter | Jährliche Kosten | Technischer Support |  Geo-Location |
+| ----------- | ----------- | ----------- | ----------- |
+| Strato | 0,6€ (Jahr 2: 12€) | E-Mail, Telefon | Deutschland |
+| NetCup | 5,04€ | E-Mail, Telefon | ? | 
+| IONOS | 0,96€ (Jahr 2: 15,6€) | E-Mail, Telefon | Deutschland |
 Ergebnis und schriftliche Begründung:
-
+Die Wahl fällt auf den Anbieter Strato. Er überzeugt durch ein gutes Preis/Leistungsverhältnis.
 
 ### Termin 2
 ---
