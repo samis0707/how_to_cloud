@@ -11,6 +11,12 @@ Die Auswahl des richtigen IT-Dienstleisters für das Hosting eines Root-Servers 
 ### Kick-Off
 ---
 #### Kosten für einen Root-Servers 
+Anforderungen an den Server:
+- Für 1500 Nutzer mit à 512MB persönlichem Speicher
+- Für 60 Gruppen mit à 20GB geteiltem Speicher
+--> 6-8 Cores für die CPU, 32GB Arbeitsspeicher, 2TB Speicher
+
+##### Kostenmatrix
 | Anbieter | Jährliche Kosten | Technsicher Support |  Arbeitsspeicher | CPU-Leistung | Datenträger | Datenmenge | Datenschutz | Geo-Location | Zusätzliche Funktionen
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Hetzner | 70,57€ x 12: 893,88€ | E-Mail, Telefon | 64GB DDR4 RAM | 6 cores / 12 threads @ 3.6 GHz | SATA HDD / NVMe SSD | 2 x 512 GB NVMe SSD 2 x 1 TB SATA SSD (3TB) | Deutscher Standort, DSGVO Konform | Deutschland | Control panel |
@@ -27,6 +33,8 @@ Das Angebot:
 
 
 #### Kosten für Domain-Hosting
+Domain-Name: dualshare.de
+
 | Anbieter | Jährliche Kosten | Technischer Support | Uptime-Garantie | Reputation | Datenschutz | Geo-Location | Zusätzliche Funktionen
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | 
 | Anbieter A |
@@ -34,15 +42,8 @@ Das Angebot:
 | Anbieter C |
 | Anbieter D |
 
+Ergebnis und schriftliche Begründung:
 
-- Strato: .de Domain --> dualshare.de
-
-2000GB Speicher(SSD)
-64GB RAM
-
-512MB pro Person = 768GB
-20GB pro Gruppenordner bei 60 Kursen/Gruppen = 1200GB
-Gruppenordner anstelle von eigenem Speicher
 
 Gesamtpreis: 1.067,28€
 
