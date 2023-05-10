@@ -27,6 +27,7 @@ Domain-Name: dualshare.de
 | Strato | 0,6€ (Jahr 2: 12€) | E-Mail, Telefon | Deutschland |
 | NetCup | 5,04€ | E-Mail, Telefon | ? | 
 | IONOS | 0,96€ (Jahr 2: 15,6€) | E-Mail, Telefon | Deutschland |
+
 Ergebnis und schriftliche Begründung:
 Die Wahl fällt auf den Anbieter Strato. Er überzeugt durch ein gutes Preis/Leistungsverhältnis.
 
