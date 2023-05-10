@@ -29,6 +29,7 @@ Ergebnis und schriftliche Begründung:
 Die Wahl fällt auf den Anbieter Hetzner. Er überzeugt nicht nur durch seine Konfigurationsmöglichkeiten, sondern auch durch den deutschen Standort die Datenschutz-Richtlinien und ein sehr gutes Preis/Leistungsverhältnis. Er bietet als einziger Anbieter die Anforderungen, die wir an die verfügbare Datenmenge haben. Die Wahl fiel auf einen dedizierten Server, da dieser voll umfänglich in unserer Kontrolle liegt. Die Gefahr, dass durch Virtualisierung in verschiedener Weise Perfomance einbußen auftreten können, wie bei manchen viruellen Server, ist so nicht gegeben.
 Das Angebot:
 ![Hetzner Angebot](https://github.com/samis0707/how_to_cloud/assets/83206717/af2aa6fe-0087-4533-af27-37aaf45b0eea)
+![2023-05-10 15_06_55-Hetzner Online GmbH - Robot — Mullvad Browser](https://github.com/samis0707/how_to_cloud/assets/83206717/b4a8a25c-0174-4894-83f8-a2da5f1f1c72)
 
 
 #### Kosten für Domain-Hosting
