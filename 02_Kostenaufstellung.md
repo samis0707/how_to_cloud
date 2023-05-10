@@ -31,21 +31,16 @@ Das Angebot:
 ![Hetzner Angebot](https://github.com/samis0707/how_to_cloud/assets/83206717/af2aa6fe-0087-4533-af27-37aaf45b0eea)
 
 
-
 #### Kosten für Domain-Hosting
 Domain-Name: dualshare.de
 
 | Anbieter | Jährliche Kosten | Technischer Support | Uptime-Garantie | Reputation | Datenschutz | Geo-Location | Zusätzliche Funktionen
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | 
-| Anbieter A |
-| Anbieter B |
-| Anbieter C |
-| Anbieter D |
+| Strato |
+| NetCup |
+| IONOS |
 
 Ergebnis und schriftliche Begründung:
-
-
-Gesamtpreis: 1.067,28€
 
 
 ### Termin 2
